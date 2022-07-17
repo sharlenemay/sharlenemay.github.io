@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e58edb4.css",
+    "main.js": "/static/js/main.f1ce442f.js",
+    "static/media/me.jpg": "/static/media/me.8ee5e93400cdd1a04bf7.jpg",
+    "static/media/jo-screenshot2.png": "/static/media/jo-screenshot2.e3efa5276300a391c1cb.png",
+    "static/media/jothefish.png": "/static/media/jothefish.f9e2f9c8e355ee623c0c.png",
+    "static/media/purito-rebrand2.png": "/static/media/purito-rebrand2.ce84d660a868f5fde0a8.png",
+    "static/media/jo-screenshot.png": "/static/media/jo-screenshot.39794b7dd4e902e45205.png",
+    "static/media/a118.png": "/static/media/a118.db3ce6247e4b7ea748f6.png",
+    "static/media/purito-rebrand3.png": "/static/media/purito-rebrand3.ca3a89e48c64c3f53676.png",
+    "static/media/purito-rebrand4.png": "/static/media/purito-rebrand4.3571a2c9f6ae62864e53.png",
+    "static/media/wikalang-01-01.png": "/static/media/wikalang-01-01.ffa27c04d088f3e23bcb.png",
+    "static/media/purito-rebrand.png": "/static/media/purito-rebrand.ccaaf3ed8adea635be2c.png",
+    "static/media/purito1.png": "/static/media/purito1.ccaaf3ed8adea635be2c.png",
+    "index.html": "/index.html",
+    "main.7e58edb4.css.map": "/static/css/main.7e58edb4.css.map",
+    "main.f1ce442f.js.map": "/static/js/main.f1ce442f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e58edb4.css",
+    "static/js/main.f1ce442f.js"
+  ]
+}
