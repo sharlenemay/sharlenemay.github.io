@@ -12,15 +12,15 @@ export default function About() {
         </Col>
         <Col s={12} sm={12} md={12} lg={12} xl={6}>
           <h3>
-            Software and Data Engineer dedicated to creating meaningful user
+            Software Engineer dedicated to creating meaningful user
             experiences with inclusive design and conscious innovation.
           </h3>
           <hr />
           <p>
             I’m Sharlene, an experienced software engineer interested in all things
-            human and digital. With skills in coding, data, and User Experience research, I approach product development from a holistic perspective.
+            human and digital. With skills in Data, DevOps, and User Experience research, I approach product development from a holistic perspective.
             My goal is to bring people together through
-            human-centered UX engineering and by using tech sustainably and ethically.
+            human-centered innovation and by using tech sustainably and ethically.
           </p>
           {/* <p>
             Since graduating with a Double B.A. in Anthropology and Asian
