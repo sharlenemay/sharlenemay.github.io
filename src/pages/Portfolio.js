@@ -35,7 +35,7 @@ export default function Portfolio() {
               onMouseOver={fade}
               onMouseOut={fadeOut}
             />
-            <h5>Exploring the Dimensions of Affinity Space, Public Sphere, and Opinion Leadership through Educational Twitter - Masters Capstone Project</h5>
+            <h5>Boston University Emerging Media Studies Graduate Student Research</h5>
           </Link>
         </Col>
         <Col s={12} sm={12} md={12} lg={12} xl={6}>
