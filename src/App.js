@@ -8,6 +8,7 @@ import Research from "./pages/Research";
 import Jo from "./pages/Jo";
 import Wikalang from "./pages/Wikalang";
 import Anthro118 from "./pages/A118";
+import Ems from "./pages/ems";
 import Purito from "./pages/purito";
 import Footer from "./components/Footer/footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -25,6 +26,7 @@ function App() {
           <Route exact path="/wikalang" element={<Wikalang />}/>
           <Route exact path="/a118" element={<Anthro118 />}/>
           <Route exact path="/purito" element={<Purito />}/>
+          <Route exact path="/ems" element={<Ems />}/>
         </Routes>
         <Footer />
       </Router>

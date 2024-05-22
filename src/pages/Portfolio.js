@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import jothefish from "../photos/jothefish.png";
 import wikalang from "../photos/wikalang-01-01.png";
+import harvard from "../photos/presentation_7_harvard_tn.png"
 import purito from "../photos/purito1.png";
 import { Link } from "react-router-dom";
 import "./styles.css";
@@ -26,15 +27,15 @@ export default function Portfolio() {
       </Row> */}
       <Row>
       <Col s={12} sm={12} md={12} lg={12} xl={6}>
-          <Link to="/purito">
+          <Link to="/ems">
             <img
-              src={purito}
+              src={harvard}
               className="project"
-              alt="purito"
+              alt="ems"
               onMouseOver={fade}
               onMouseOut={fadeOut}
             />
-            <h5>Purito, Brand Redesign Project</h5>
+            <h5>Exploring the Dimensions of Affinity Space, Public Sphere, and Opinion Leadership through Educational Twitter - Masters Capstone Project</h5>
           </Link>
         </Col>
         <Col s={12} sm={12} md={12} lg={12} xl={6}>
@@ -46,7 +47,19 @@ export default function Portfolio() {
               onMouseOver={fade}
               onMouseOut={fadeOut}
             />
-            <h5>Jo the Fish, Front-end Development</h5>
+            <h5>Jo the Fish - Front-end Development</h5>
+          </Link>
+        </Col>
+        <Col s={12} sm={12} md={12} lg={12} xl={6}>
+          <Link to="/purito">
+            <img
+              src={purito}
+              className="project"
+              alt="purito"
+              onMouseOver={fade}
+              onMouseOut={fadeOut}
+            />
+            <h5>Purito - Brand Redesign Project</h5>
           </Link>
         </Col>
       </Row>
