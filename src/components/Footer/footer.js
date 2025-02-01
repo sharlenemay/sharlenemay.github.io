@@ -21,7 +21,7 @@ function Footer() {
       <a href="https://www.linkedin.com/in/smminosa/" target="_blank">LinkedIn</a>
       </Col>
       <Col>
-      <a href="https://drive.google.com/file/d/19sg9yxJVIziKwa6cbchzC11Z8r9xwUmX/view?usp=sharing" target="_blank">Resume</a>
+      <a href="https://drive.google.com/file/d/1OWl53rqO-M5LVg9vxKaawA_LQomjPjHO/view?usp=sharing" target="_blank">Resume</a>
       </Col>
       </Row>
     </div>

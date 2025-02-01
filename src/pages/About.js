@@ -18,7 +18,7 @@ export default function About() {
           <hr />
           <p>
             I’m Sharlene, an experienced software engineer interested in all things
-            human and digital. With skills in Data, DevOps, and User Experience research, I approach product development from a holistic perspective.
+            human and digital. With skills in Data, DevOps, and User Experience researchand design, I approach product development from a holistic perspective.
             My goal is to bring people together through
             human-centered innovation and by using tech sustainably and ethically.
           </p>
@@ -44,7 +44,7 @@ export default function About() {
             Humanities - Magna Cum Laude 2018
           </p> */}
           <hr />
-          <p>Born and raised in Los Angeles, CA, I'm currently located in Tampa, FL as a full-time corporate tech girlie and part-time dog-sitter.</p>
+          <p>Born and raised in Los Angeles, CA, I enjoy spending my free time reading, playing video games, and dog-sitting.</p>
         </Col>
       </Row>
     </div>
