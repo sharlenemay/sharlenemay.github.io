@@ -11,7 +11,7 @@ function Footer() {
       <h6>
       &copy;Sharlene May Minosa
       <br/>
-      <a href="mailto:sminosa@bu.edu/">sminosa@bu.edu</a>
+      <a href="mailto:sharleneminosa@gmail.com/">sharleneminosa@gmail.com</a>
       </h6>
       </Col>
       <Col id="footer-right">

@@ -44,7 +44,7 @@ export default function About() {
             Humanities - Magna Cum Laude 2018
           </p> */}
           <hr />
-          <p>Born and raised in Los Angeles, CA, I enjoy spending my free time reading, playing video games, and dog-sitting.</p>
+          <p>Born and raised in Los Angeles, CA, I enjoy spending my free time traveling, reading, and playing video games.</p>
         </Col>
       </Row>
     </div>
