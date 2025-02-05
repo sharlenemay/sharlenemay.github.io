@@ -12,13 +12,14 @@ export default function About() {
         </Col>
         <Col s={12} sm={12} md={12} lg={12} xl={6}>
           <h3>
-            Software Engineer dedicated to creating meaningful user
-            experiences with inclusive design and conscious innovation.
+          “You can design and create, and build the most wonderful place in the world. But it takes people to make the dream a reality.” - Walt Disney
+            {/* Data Engineer and Analyst dedicated to creating meaningful user
+            experiences with inclusive design and conscious innovation. */}
           </h3>
           <hr />
           <p>
-            I’m Sharlene, an experienced software engineer interested in all things
-            human and digital. With skills in Data, DevOps, and User Experience researchand design, I approach product development from a holistic perspective.
+            I’m Sharlene, an experienced engineer interested in all things
+            human and digital. With skills in Data Science, DevOps, and User Experience research and design, I approach product development from a holistic perspective.
             My goal is to bring people together through
             human-centered innovation and by using tech sustainably and ethically.
           </p>
@@ -44,7 +45,8 @@ export default function About() {
             Humanities - Magna Cum Laude 2018
           </p> */}
           <hr />
-          <p>Born and raised in Los Angeles, CA, I enjoy spending my free time traveling, reading, and playing video games.</p>
+          <p>Born and raised in Los Angeles, CA, I love to spend my free time hiking, visiting theme parks, and reading a bit of everything.
+          </p>
         </Col>
       </Row>
     </div>
