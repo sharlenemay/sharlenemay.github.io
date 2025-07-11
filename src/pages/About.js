@@ -18,7 +18,7 @@ export default function About() {
           </h3>
           <hr />
           <p>
-            I’m Sharlene, an experienced engineer interested in all things
+            I’m Sharlene, an experienced data analyst / product engineer interested in all things
             human and digital. With skills in Data Science, DevOps, and User Experience research and design, I approach product development from a holistic perspective.
             My goal is to bring people together through
             human-centered innovation and by using tech sustainably and ethically.
